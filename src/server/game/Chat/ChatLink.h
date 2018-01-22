@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_CHATLINK_H
-#define AZEROTHCORE_CHATLINK_H
+#ifndef CHATLINK_H
+#define CHATLINK_H
 
 #include "SharedDefines.h"
 #include <sstream>

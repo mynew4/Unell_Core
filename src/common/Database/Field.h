@@ -5,8 +5,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_FIELD_H
-#define AZEROTHCORE_FIELD_H
+#ifndef FIELD_H
+#define FIELD_H
 
 #include "Common.h"
 #include "Log.h"

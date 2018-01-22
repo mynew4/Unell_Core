@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_GOSSIP_H
-#define AZEROTHCORE_GOSSIP_H
+#ifndef GOSSIP_H
+#define GOSSIP_H
 
 #include "Common.h"
 #include "QuestDef.h"

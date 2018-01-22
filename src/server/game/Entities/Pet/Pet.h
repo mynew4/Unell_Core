@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_PET_H
-#define AZEROTHCORE_PET_H
+#ifndef PET_H
+#define PET_H
 
 #include "PetDefines.h"
 #include "TemporarySummon.h"

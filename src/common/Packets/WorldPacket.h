@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_WORLDPACKET_H
-#define AZEROTHCORE_WORLDPACKET_H
+#ifndef WORLDPACKET_H
+#define WORLDPACKET_H
 
 #include "Common.h"
 #include "ByteBuffer.h"

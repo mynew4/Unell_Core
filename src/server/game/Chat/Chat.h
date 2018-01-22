@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_CHAT_H
-#define AZEROTHCORE_CHAT_H
+#ifndef CHAT_H
+#define CHAT_H
 
 #include "SharedDefines.h"
 #include "WorldSession.h"

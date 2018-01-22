@@ -1,6 +1,6 @@
 
-#ifndef AZEROTHCORE_ARENASPECTATOR_H
-#define AZEROTHCORE_ARENASPECTATOR_H
+#ifndef ARENASPECTATOR_H
+#define ARENASPECTATOR_H
 
 #include "Player.h"
 #include "World.h"

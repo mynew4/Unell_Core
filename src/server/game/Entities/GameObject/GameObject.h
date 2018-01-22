@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_GAMEOBJECT_H
-#define AZEROTHCORE_GAMEOBJECT_H
+#ifndef GAMEOBJECT_H
+#define GAMEOBJECT_H
 
 #include "Common.h"
 #include "SharedDefines.h"

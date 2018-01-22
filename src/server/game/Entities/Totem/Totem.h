@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_TOTEM_H
-#define AZEROTHCORE_TOTEM_H
+#ifndef TOTEM_H
+#define TOTEM_H
 
 #include "TemporarySummon.h"
 

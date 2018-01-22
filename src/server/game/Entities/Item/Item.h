@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_ITEM_H
-#define AZEROTHCORE_ITEM_H
+#ifndef ITEM_H
+#define ITEM_H
 
 #include "Common.h"
 #include "Object.h"

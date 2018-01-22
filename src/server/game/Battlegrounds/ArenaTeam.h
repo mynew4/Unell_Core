@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_ARENATEAM_H
-#define AZEROTHCORE_ARENATEAM_H
+#ifndef ARENATEAM_H
+#define ARENATEAM_H
 
 #include "QueryResult.h"
 #include "Map.h"

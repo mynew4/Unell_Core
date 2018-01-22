@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_LOG_H
-#define AZEROTHCORE_LOG_H
+#ifndef LOG_H
+#define LOG_H
 
 #include "Common.h"
 #include <ace/Task.h>

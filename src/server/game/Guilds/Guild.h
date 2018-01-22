@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_GUILD_H
-#define AZEROTHCORE_GUILD_H
+#ifndef GUILD_H
+#define GUILD_H
 
 #include "World.h"
 #include "Item.h"

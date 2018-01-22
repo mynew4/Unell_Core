@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_ERRORS_H
-#define AZEROTHCORE_ERRORS_H
+#ifndef ERRORS_H
+#define ERRORS_H
 
 #include "Define.h"
 

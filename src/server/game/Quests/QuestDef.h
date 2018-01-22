@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_QUEST_H
-#define AZEROTHCORE_QUEST_H
+#ifndef QUEST_H
+#define QUEST_H
 
 #include "Define.h"
 #include "DatabaseEnv.h"

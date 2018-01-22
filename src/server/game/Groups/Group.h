@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_GROUP_H
-#define AZEROTHCORE_GROUP_H
+#ifndef GROUP_H
+#define GROUP_H
 
 #include "DBCEnums.h"
 #include "GroupRefManager.h"

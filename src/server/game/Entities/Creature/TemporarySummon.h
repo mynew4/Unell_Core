@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_TEMPSUMMON_H
-#define AZEROTHCORE_TEMPSUMMON_H
+#ifndef TEMPSUMMON_H
+#define TEMPSUMMON_H
 
 #include "Creature.h"
 

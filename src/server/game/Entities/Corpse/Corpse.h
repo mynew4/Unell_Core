@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_CORPSE_H
-#define AZEROTHCORE_CORPSE_H
+#ifndef CORPSE_H
+#define CORPSE_H
 
 #include "Object.h"
 #include "DatabaseEnv.h"

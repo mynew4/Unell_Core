@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_DYNAMICOBJECT_H
-#define AZEROTHCORE_DYNAMICOBJECT_H
+#ifndef DYNAMICOBJECT_H
+#define DYNAMICOBJECT_H
 
 #include "Object.h"
 

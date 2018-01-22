@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_PET_DEFINES_H
-#define AZEROTHCORE_PET_DEFINES_H
+#ifndef PET_DEFINES_H
+#define PET_DEFINES_H
 
 enum PetType
 {

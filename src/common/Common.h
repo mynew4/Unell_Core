@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_COMMON_H
-#define AZEROTHCORE_COMMON_H
+#ifndef COMMON_H
+#define COMMON_H
 
 // config.h needs to be included 1st
 /// @todo this thingy looks like hack, but its not, need to

@@ -4,8 +4,8 @@
  * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
  */
 
-#ifndef AZEROTHCORE_CREATURE_H
-#define AZEROTHCORE_CREATURE_H
+#ifndef CREATURE_H
+#define CREATURE_H
 
 #include "Common.h"
 #include "Unit.h"
